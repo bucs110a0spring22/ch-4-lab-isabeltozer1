@@ -1,25 +1,22 @@
 #### CS 110
-# Chapter 4 - Lab - Functions
-
-### [Assignment Description](https://docs.google.com/document/d/1V20D_upUX4MO8YmskKlRB25Yu2pCEv3-h8z4EAfrSno/edit?usp=sharing)
+# Midterm - Python Programming
 
 ***
 
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+What did you clean up?: I added docstrings and I fixed the lower and upper bounds. I also fixed some magic values, such as the year in my age function.
 
-## GRACE DAYS
-Grace days used for this assignment: < # >
+Summary of function(s) added: I added a function that displayed a message using a name.
 
-Grace days remaining: < # >/5
+Summary of Feature Added: I added a background color using the user's input and drew a white star.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ none
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ none
